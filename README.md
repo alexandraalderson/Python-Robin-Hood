@@ -1,15 +1,21 @@
 # Python-Robin-Hood
-Robin Hood Python Teaching Text Game for Edexcel iGCSE Computer Science
+Robin Hood Python Teaching Text Game for Edexcel iGCSE Computer Science.
 
-This project demonstrates key programming concepts such as loops, conditionals,
-functions, and user input/output. It is intended both as a learning resource.
+This project demonstrates key programming concepts such as loops, conditionals, functions, and user input/output. It is intended both as a learning resource.
 
-## How to Run
-1. Clone the repository:
-   git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
-2. Open a terminal inside the project folder.
-3. Run the game:
-   Python-Robin-Hood.py
+Features
+- Multiple endings based on player choices
+- Inventory and branching story logic
+
+**Written as a Jupyter/Colab notebook.**
+
+## How to Open
+- **On GitHub:**
+- Click `Python-Robin-Hood.ipynb` to view directly.
+  
+- **In Google Colab:** [Open in Colab](https://colab.research.google.com/github/alexandraalderson/repo/blob/main/Python-Robin-Hood.ipynb)
+  
+- **Locally:** Download the file and open with Jupyter Notebook.
 
 ## Documentation
 - docs/RobinHoodFlowchart.png – game logic flowchart
