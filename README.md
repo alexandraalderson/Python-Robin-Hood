@@ -13,7 +13,7 @@ Features
 - **On GitHub:**
 - Click `Python-Robin-Hood.ipynb` to view directly.
   
-- **In Google Colab:** [Open in Colab](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/RobinHoodMidnightGold.ipynb)
+- **In Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/RobinHoodMidnightGold.ipynb)
   
 - **Locally:** Download the file and open with Jupyter Notebook.
 
