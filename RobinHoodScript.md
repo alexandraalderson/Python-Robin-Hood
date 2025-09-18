@@ -1,4 +1,4 @@
-*Robin Hood: Midnight Gold*
+Robin Hood: Midnight Gold
 
 Opening Scene – Sherwood at Midnight
 
