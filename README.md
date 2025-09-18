@@ -18,6 +18,7 @@ Features
 ## Code
 - [code/RobinHoodMidnightGold.ipynb](code/RobinHoodMidnightGold.ipynb) – interactive notebook
 - [code/RobinHoodMidnightGold.py](code/RobinHoodMidnightGold.py) – plain Python script
+- [code/RobinHoodMidnightGold_TestEndings.py](code/RobinHoodMidnightGold_TestEndings.py) – plain Python script of the tests for each ending
 
 ## How to Open
 - **On GitHub:**
