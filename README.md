@@ -18,7 +18,7 @@ Features
 ## Code
 - [code/RobinHoodMidnightGold.ipynb](code/RobinHoodMidnightGold.ipynb) – interactive notebook
 - [code/RobinHoodMidnightGold.py](code/RobinHoodMidnightGold.py) – plain Python script
-- [code/RobinHoodMidnightGold_TestEndings.py](code/RobinHoodMidnightGold_TestEndings.py) – plain Python script of the tests for each ending
+- [code/RobinHoodMidnightGold_TestEndings.py](code/RobinHoodMidnightGold_TestEndings.py) – plain Python script of automated tests for each story ending
 
 ## How to Open
 - **On GitHub:**
@@ -27,6 +27,10 @@ Features
 - **In Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/code/RobinHoodMidnightGold.ipynb)
   
 - **Locally:** Download the file and open with Jupyter Notebook.
+
+## Tests
+To run all automated ending tests:
+python -m unittest code/RobinHoodMidnightGold_TestEndings.py
 
 ## Documentation
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
