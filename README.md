@@ -11,6 +11,9 @@ Features
 
 **Written as a Jupyter/Colab notebook.**
 
+## Screenshot
+![Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay.jpg)
+
 ## How to Open
 - **On GitHub:**
 - Click `Python-Robin-Hood.ipynb` to view directly.
