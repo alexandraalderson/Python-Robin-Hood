@@ -3,7 +3,7 @@ Robin Hood Python Teaching Text Game for Edexcel iGCSE Computer Science.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/RobinHoodMidnightGold.ipynb)
 
-This project demonstrates key programming concepts such as loops, conditionals, functions, and user input/output. It is intended both as a learning resource.
+This project demonstrates key programming concepts such as loops, conditionals, functions, and user input/output. It is intended as a learning resource.
 
 Features
 - Multiple endings based on player choices
