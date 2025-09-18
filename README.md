@@ -13,7 +13,7 @@ Features
 **Written as a Jupyter/Colab notebook.**
 
 ## Screenshot
-![Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay.jpg)
+![Screenshot showing opening game text and first two options of Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay.jpg)
 
 ## How to Open
 - **On GitHub:**
@@ -27,7 +27,7 @@ Features
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
 - [docs/RobinHoodScript.md](docs/RobinHoodScript.md) – game script in detail
 - [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
-- [docs/ScreenshotRobinHoodGameplay.jpg](docs/ScreenshotRobinHoodGameplay.jpg) – screenshot of gameplay
+- ![docs/ScreenshotRobinHoodGameplay1.jpg](docs/ScreenshotRobinHoodGameplay1.jpg) – screenshot of gameplay raw image file
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
