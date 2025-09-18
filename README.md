@@ -7,7 +7,7 @@ This project demonstrates key programming concepts such as loops, conditionals, 
 
 Features
 - Multiple endings based on player choices
-- Inventory and branching story logic
+- Branching story logic
 
 **Written as a Jupyter/Colab notebook.**
 
