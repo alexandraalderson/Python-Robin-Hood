@@ -13,7 +13,7 @@ functions, and user input/output. It is intended both as a learning resource.
 
 ## Documentation
 - docs/RobinHoodFlowchart.png – game logic flowchart
-- docs/RobinHoodScript.txt - Game Script in detail
+- docs/RobinHoodScript.md - Game Script in detail
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
