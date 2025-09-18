@@ -1,6 +1,6 @@
 # Python-Robin-Hood
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/RobinHoodMidnightGold.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/code/RobinHoodMidnightGold.ipynb)
 
 Robin Hood Python Teaching Text Game for Edexcel iGCSE Computer Science.
 
@@ -15,11 +15,15 @@ Features
 ## Screenshot
 ![Screenshot showing opening game text and first two options of Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay1.jpg)
 
+## Code
+- [code/RobinHoodMidnightGold.ipynb](code/RobinHoodMidnightGold.ipynb) – interactive notebook
+- [code/RobinHoodMidnightGold.py](code/RobinHoodMidnightGold.py) – plain Python script
+
 ## How to Open
 - **On GitHub:**
 - Click `Python-Robin-Hood.ipynb` to view directly.
   
-- **In Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/RobinHoodMidnightGold.ipynb)
+- **In Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/code/RobinHoodMidnightGold.ipynb)
   
 - **Locally:** Download the file and open with Jupyter Notebook.
 
