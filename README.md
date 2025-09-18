@@ -42,4 +42,4 @@ To run all automated ending tests:
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
 ## Challenge
-To create a simple, easy to understand text based game in Python that coveres the full development cycle to allow students to see how a game go from an idea to an implementation.
+To create a simple, easy to understand text based game in Python that coveres the full development cycle to allow students to see how a game goes from an idea to an implementation.
