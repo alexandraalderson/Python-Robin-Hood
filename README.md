@@ -18,8 +18,8 @@ Features
 - **Locally:** Download the file and open with Jupyter Notebook.
 
 ## Documentation
-- docs/RobinHoodFlowchart.png – game logic flowchart
-- docs/RobinHoodScript.md - Game Script in detail
+- [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
+- [docs/RobinHoodScript.md](docs/RobinHoodScript.md) – game script in detail
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
