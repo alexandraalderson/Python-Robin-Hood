@@ -22,7 +22,7 @@ Features
 
 ## How to Open
 - **On GitHub:**
-- Click `[code/RobinHoodMidnightGold.ipynb](code/RobinHoodMidnightGold.ipynb)` to view directly.
+- Click `code/RobinHoodMidnightGold.ipynb` to view directly.
   
 - **In Google Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandraalderson/Python-Robin-Hood/blob/main/code/RobinHoodMidnightGold.ipynb)
   
@@ -30,7 +30,7 @@ Features
 
 ## Tests
 To run all automated ending tests:
-`python -m unittest [code/RobinHoodMidnightGold_TestEndings.py](code/RobinHoodMidnightGold_TestEndings.py)`
+`python -m unittest RobinHoodMidnightGold_TestEndings.py`
 
 ## Documentation
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
