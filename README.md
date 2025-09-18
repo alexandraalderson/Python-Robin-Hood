@@ -6,7 +6,7 @@ functions, and user input/output. It is intended both as a learning resource.
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/username/Python-Robin-Hood.git
+   git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
 2. Open a terminal inside the project folder.
 3. Run the game:
    Python-Robin-Hood.py
