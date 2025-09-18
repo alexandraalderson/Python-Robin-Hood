@@ -22,6 +22,7 @@ Features
 ## Documentation
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
 - [docs/RobinHoodScript.md](docs/RobinHoodScript.md) – game script in detail
+- [docs/RobinHoodEdexcelPseudocode.md](docs/RobinHoodEdexcelPseudocode.md) - Edexcel iGCSE Computer Science standard Pseudocode for the game
 - [docs/ScreenshotRobinHoodGameplay.jpg](docs/ScreenshotRobinHoodGameplay.jpg) – screenshot of gameplay
 
 ## License
