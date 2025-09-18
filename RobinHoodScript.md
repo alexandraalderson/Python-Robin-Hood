@@ -88,8 +88,7 @@ Send Little John as a decoy – Try to draw the guards in.
 
 **End5 Hide and Wait**
 **Failure** 
-
-End5 The convoy looks like it will pass directly into your unscouted trap. The ropes tighten perfectly, overturning the first cart. However another highwayman ambushes them before you can get there and steals the gold. You would have seen them if you had checked more thoroughly. You leave with nothing.
+The convoy looks like it will pass directly into your unscouted trap. The ropes tighten perfectly, overturning the first cart. However another highwayman ambushes them before you can get there and steals the gold. You would have seen them if you had checked more thoroughly. You leave with nothing.
 
 ### A2.B3 Send Little John as Decoy
 
