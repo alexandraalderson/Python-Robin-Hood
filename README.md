@@ -30,7 +30,7 @@ Features
 
 ## Tests
 To run all automated ending tests:
-python -m unittest code/RobinHoodMidnightGold_TestEndings.py
+python -m unittest [code/RobinHoodMidnightGold_TestEndings.py](code/RobinHoodMidnightGold_TestEndings.py)
 
 ## Documentation
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
