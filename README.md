@@ -13,7 +13,7 @@ Features
 **Written as a Jupyter/Colab notebook.**
 
 ## Screenshot
-![Screenshot showing opening game text and first two options of Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay.jpg)
+![Screenshot showing opening game text and first two options of Robin Hood Game Screen](docs/ScreenshotRobinHoodGameplay1.jpg)
 
 ## How to Open
 - **On GitHub:**
