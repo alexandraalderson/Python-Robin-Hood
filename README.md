@@ -20,6 +20,7 @@ Features
 ## Documentation
 - [docs/RobinHoodFlowchart.png](docs/RobinHoodFlowchart.png) – game logic flowchart  
 - [docs/RobinHoodScript.md](docs/RobinHoodScript.md) – game script in detail
+- [docs/ScreenshotRobinHoodGameplay.jpg](docs/ScreenshotRobinHoodGameplay.jpg) – screenshot of gameplay
 
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
