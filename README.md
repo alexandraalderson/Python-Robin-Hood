@@ -13,6 +13,6 @@ functions, and user input/output. It is intended both as a learning resource.
 
 ## Documentation
 - docs/RobinHoodFlowchart.png – game logic flowchart
-- docs/Robin Hood Midnight Gold Game Script.doc - Game Script in detail
+- docs/RobinHoodMidnightGoldGameScript.pdf - Game Script in detail
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
