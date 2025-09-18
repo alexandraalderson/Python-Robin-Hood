@@ -12,8 +12,7 @@ functions, and user input/output. It is intended both as a learning resource.
    Python-Robin-Hood.py
 
 ## Documentation
-- docs/flowchart.pdf – game logic flowchart
-- docs/pseudocode.pdf – Edexcel-style pseudocode
-
+- docs/RobinHoodFlowchart.png – game logic flowchart
+- docs/Robin Hood Midnight Gold Game Script.doc - Game Script in detail
 ## License
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
