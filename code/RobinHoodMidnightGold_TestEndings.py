@@ -37,7 +37,8 @@
 
 #Use !wget to fetch the raw file from GitHub - comment out if you are running it from a terminal/IDE
 #This downloads the file into the notebook’s current working directory so Python can import it.
-!git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
+#Remove the comment markers from the below two lines to use this in a notebook like colab.
+#!git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
 # %cd Python-Robin-Hood/code
 
 import unittest
