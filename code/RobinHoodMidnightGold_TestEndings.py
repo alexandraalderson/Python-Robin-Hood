@@ -1,10 +1,41 @@
+# ================================================================
+# HOW TO RUN THESE TESTS
+# ================================================================
+# ▶ Option 1 – Jupyter / Colab
+#    1. Clone the repo inside your notebook:
+#         !git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
+#    2. Change into the code folder:
+#         %cd Python-Robin-Hood/code
+#    3. Run this file:
+#         !python RobinHoodMidnightGold_TestEndings.py
+#
+# ▶ Option 2 – Standard .py file from a terminal/IDE
+#    1. Save this file as RobinHoodMidnightGold_TestEndings.py
+#       in the same folder as RobinHoodMidnightGold.py:
+#
+#         Python-Robin-Hood/
+#            code/
+#               RobinHoodMidnightGold.py
+#               RobinHoodMidnightGold_TestEndings.py
+#
+#    2. From a terminal:
+#         cd Python-Robin-Hood/code
+#         python RobinHoodMidnightGold_TestEndings.py
+#
+#    This runs all unittests without using any notebook magic.
+#
+#    (Inside the code below, unittest.main(argv=[''], exit=False)
+#     lets tests run in notebooks without stopping the kernel.
+#     If running as a normal script you can simply use unittest.main().)
+# ================================================================
+
 
 # TESTS FOR ALL ENDINGS of Robin Hood: Midnight Gold
 # --------------------------------------------------
 # These tests automatically run the text adventure using Python's unittest framework,
 # feeding in pre-set choices and checking that the expected ending text appears.
 
-#Use !wget to fetch the raw file from GitHub
+#Use !wget to fetch the raw file from GitHub - comment out if you are running it from a terminal/IDE
 #This downloads the file into the notebook’s current working directory so Python can import it.
 !git clone https://github.com/alexandraalderson/Python-Robin-Hood.git
 # %cd Python-Robin-Hood/code
